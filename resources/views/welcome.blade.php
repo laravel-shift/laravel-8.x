@@ -7,7 +7,7 @@
         <title>Laravel</title>
 
         <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
 
         <!-- Styles -->
         <style>
@@ -123,7 +123,7 @@
                     </div>
 
                     <div class="ml-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
-                        Build v{{ Illuminate\Foundation\Application::VERSION }}
+                        Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
                     </div>
                 </div>
             </div>
