@@ -19,13 +19,14 @@ Shifts for *Laravel* include:
 - [Laravel 6.x Shift - upgrade Laravel from 5.8 to 6.x](https://laravelshift.com/upgrade-laravel-5.8-to-laravel-6.0)
 - [Laravel 7.x Shift - upgrade Laravel from 6.x to 7.x](https://laravelshift.com/upgrade-laravel-6-to-laravel-7)
 - [Laravel 8.x Shift - upgrade Laravel from 7.x to 8.x](https://laravelshift.com/upgrade-laravel-7-to-laravel-8)
-- [BrowserKit Tests Converter - upgrade tests from BrowserKit](https://laravelshift.com/upgrade-laravel-5.3-tests-to-laravel-5.4-tests)
+- [Laravel 9.x Shift - upgrade Laravel from 8.x to 9.x](https://laravelshift.com/upgrade-laravel-8-to-laravel-9)
 - [Laravel Linter - detect lint in your Laravel project](https://laravelshift.com/laravel-linter) 
 - [Laravel Analyzer - are you following the "Laravel Way"](https://laravelshift.com/opinionated-laravel-way-shift) 
 - [Laravel Fixer - automate changes to the "Laravel Way"](https://laravelshift.com/laravel-code-fixer)
 - [Laravel Tests Generator - generate HTTP tests for your Laravel application](https://laravelshift.com/laravel-test-generator) 
-- [Consolidate Namespace Shift - condense custom namespaces with Laravel](https://laravelshift.com/laravel-consolidate-custom-namespaces)
 - [Namespace Models Shift - move Models to app/Models](https://laravelshift.com/laravel-namespace-models)
+- [Consolidate Namespace Shift - condense custom namespaces with Laravel](https://laravelshift.com/laravel-consolidate-custom-namespaces)
+- [BrowserKit Tests Converter - upgrade tests from BrowserKit](https://laravelshift.com/upgrade-laravel-5.3-tests-to-laravel-5.4-tests)
 
 
 Shifts for *Lumen* include:
@@ -41,10 +42,14 @@ Shifts for *PHP* include:
 - [PHPUnit 6 Shift - upgrade tests for PHPUnit 6](https://laravelshift.com/upgrade-phpunit-6)
 - [PHPUnit 8 Shift - upgrade tests for PHPUnit 8](https://laravelshift.com/upgrade-phpunit-8)
 - [PHPUnit 9 Shift - upgrade tests for PHPUnit 9](https://laravelshift.com/upgrade-phpunit-9)
+- [Pest Converter - convert a PHPUnit test suite to Pest](https://laravelshift.com/phpunit-to-pest-converter)
+- [CI Generator - generate CI workflows](https://laravelshift.com/ci-generator)
 
 Shifts for *Tailwind* include:
 
 - [Tailwind 1.x Shift - upgrade Tailwind from 0.x to 1.x](https://laravelshift.com/upgrade-tailwind-css-0-to-tailwind-css-1)
 - [Tailwind 2.x Shift - upgrade Tailwind from 1.x to 2.x](https://laravelshift.com/upgrade-tailwind-css-1-to-tailwind-css-2)
+- [Tailwind 3.x Shift - upgrade Tailwind from 2.x to 3.x](https://laravelshift.com/upgrade-tailwind-css-2-to-tailwind-css-3)
 - [Tailwind UI Shift - upgrade Tailwind UI from 1.x to 2.x](https://laravelshift.com/upgrade-tailwind-ui-1-to-tailwind-ui-2)
 - [Tailwind Converter - convert Bootstrap CSS to Tailwind CSS](https://laravelshift.com/convert-bootstrap-to-tailwind-css)
+
