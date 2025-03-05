@@ -21,6 +21,8 @@ Shifts for *Laravel* include:
 - [Laravel 8.x Shift - upgrade Laravel from 7.x to 8.x](https://laravelshift.com/upgrade-laravel-7-to-laravel-8)
 - [Laravel 9.x Shift - upgrade Laravel from 8.x to 9.x](https://laravelshift.com/upgrade-laravel-8-to-laravel-9)
 - [Laravel 10.x Shift - upgrade Laravel from 9.x to 10.x](https://laravelshift.com/upgrade-laravel-9-to-laravel-10)
+- [Laravel 11.x Shift - upgrade Laravel from 10.x to 11.x](https://laravelshift.com/upgrade-laravel-10-to-laravel-11)
+- [Laravel 12.x Shift - upgrade Laravel from 11.x to 12.x](https://laravelshift.com/upgrade-laravel-11-to-laravel-12)
 - [Upgrade Checker - detect outdated code within your Laravel project](https://laravelshift.com/laravel-upgrade-checker)
 - [Laravel Linter - detect lint in your Laravel project](https://laravelshift.com/laravel-linter)
 - [Laravel Fixer - automate changes to the "Laravel Way"](https://laravelshift.com/laravel-code-fixer)
