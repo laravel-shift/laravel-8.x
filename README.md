@@ -3,10 +3,14 @@
 This repository contains the latest version of Laravel 8. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
 
 ## About Shift
-*Shift* focuses on providing [automated Shifts](https://laravelshift.com/shifts) and [Human Shifts](https://laravelshift.com/human-shifts) for upgrading and improving your Laravel, Lumen, PHP, and Tailwind projects.
 
-Shifts for *Laravel* include:
+*Shift* focuses on providing [automated Shifts](https://laravelshift.com/shifts)
+and [Human Shifts](https://laravelshift.com/human-shifts) for upgrading and improving your Laravel, Lumen, PHP, and
+Tailwind projects.
 
+Shifts for **Laravel** include:
+
+- [Laravel PreShift - Your guide to upgrading Laravel](https://laravelshift.com/upgrade-laravel-guide-preshift)
 - [Laravel 5.0 Shift - upgrade Laravel from 4.2 to 5.0](https://laravelshift.com/upgrade-laravel-4.2-to-laravel-5.0)
 - [Laravel 5.1 Shift - upgrade Laravel from 5.0 to 5.1](https://laravelshift.com/upgrade-laravel-5.0-to-laravel-5.1)
 - [Laravel 5.2 Shift - upgrade Laravel from 5.1 to 5.2](https://laravelshift.com/upgrade-laravel-5.1-to-laravel-5.2)
@@ -23,36 +27,47 @@ Shifts for *Laravel* include:
 - [Laravel 10.x Shift - upgrade Laravel from 9.x to 10.x](https://laravelshift.com/upgrade-laravel-9-to-laravel-10)
 - [Laravel 11.x Shift - upgrade Laravel from 10.x to 11.x](https://laravelshift.com/upgrade-laravel-10-to-laravel-11)
 - [Laravel 12.x Shift - upgrade Laravel from 11.x to 12.x](https://laravelshift.com/upgrade-laravel-11-to-laravel-12)
-- [Upgrade Checker - detect outdated code within your Laravel project](https://laravelshift.com/laravel-upgrade-checker)
+- [Laravel 13.x Shift - upgrade Laravel from 12.x to 13.x](https://laravelshift.com/upgrade-laravel-12-to-laravel-13)
 - [Laravel Linter - detect lint in your Laravel project](https://laravelshift.com/laravel-linter)
 - [Laravel Fixer - automate changes to the "Laravel Way"](https://laravelshift.com/laravel-code-fixer)
+- [Laravel Slimmer - slim your Laravel Application](https://laravelshift.com/slim-laravel-application)
+- [HTML Converter - Migrate to Spatie HTML](https://laravelshift.com/convert-laravelcollective-html-to-spatie-laravel-html)
 - [Laravel Tests Generator - generate HTTP tests for your Laravel application](https://laravelshift.com/laravel-test-generator)
 - [Namespace Models Shift - move Models to app/Models](https://laravelshift.com/laravel-namespace-models)
 - [Consolidate Namespace Shift - condense custom namespaces with Laravel](https://laravelshift.com/laravel-consolidate-custom-namespaces)
 - [Vite Converter - convert from Laravel Mix to Vite](https://laravelshift.com/convert-laravel-mix-to-vite)
+- [Fast Laravel - configure your Laravel application for page caching](https://laravelshift.com/fast-laravel-cache-configuration)
+- [Laravel Cloud Pre-Check - check your Laravel Cloud readiness](https://laravelshift.com/laravel-cloud-migration-check)
 
+Shifts for **Lumen** include:
 
-Shifts for *Lumen* include:
+- [Lumen to Laravel - convert a Lumen project to Laravel](https://laravelshift.com/convert-lumen-to-laravel)
 
-- [Lumen to Laravel - convert a Lumen project to Laravel](https://laravelshift.com/convert-lumen-to-laravel) 
+Shifts for **Livewire** include:
 
+- [Livewire 3.x Shift - upgrade Livewire from 2.x to 3.x](https://laravelshift.com/upgrade-livewire-2-to-livewire-3)
+- [Livewire 4.x Shift - upgrade Livewire from 3.x to 4.x](https://laravelshift.com/upgrade-livewire-3-to-livewire-4)
+- [MFC Converter - convert to multi-file components](https://laravelshift.com/convert-livewire-components-to-multi-file-components)
 
-Shifts for *PHP* include:
+Shifts for **PHP** include:
 
 - [PSR-2 - adopt the PSR-2 code style](https://laravelshift.com/upgrade-psr2-code-style-standard)
 - [PSR-4 - upgrade from PSR-0 to PSR-4](https://laravelshift.com/upgrade-namespace-psr0-psr4)
-- [Mysqli Shift - covert mysql to mysqli](https://laravelshift.com/upgrade-mysql-mysqli)
+- [MySQLi Shift - convert mysql to mysqli](https://laravelshift.com/upgrade-mysql-mysqli)
 - [PHPUnit 6 Shift - upgrade tests for PHPUnit 6](https://laravelshift.com/upgrade-phpunit-6)
 - [PHPUnit 8 Shift - upgrade tests for PHPUnit 8](https://laravelshift.com/upgrade-phpunit-8)
 - [PHPUnit 9 Shift - upgrade tests for PHPUnit 9](https://laravelshift.com/upgrade-phpunit-9)
+- [PHPUnit 10 Shift - upgrade tests for PHPUnit 10](https://laravelshift.com/upgrade-phpunit-10)
+- [PHPUnit 11 Shift - upgrade tests for PHPUnit 11](https://laravelshift.com/upgrade-phpunit-11)
+- [PHPUnit 12 Shift - upgrade tests for PHPUnit 12](https://laravelshift.com/upgrade-phpunit-12)
 - [Pest Converter - convert a PHPUnit test suite to Pest](https://laravelshift.com/phpunit-to-pest-converter)
 - [CI Generator - generate CI workflows](https://laravelshift.com/ci-generator)
 - [Dependency Upgrader - bump all your Composer dependencies at once](https://laravelshift.com/composer-dependency-upgrader)
 
-Shifts for *Tailwind* include:
+Shifts for **Tailwind** include:
 
 - [Tailwind 1.x Shift - upgrade Tailwind from 0.x to 1.x](https://laravelshift.com/upgrade-tailwind-css-0-to-tailwind-css-1)
 - [Tailwind 2.x Shift - upgrade Tailwind from 1.x to 2.x](https://laravelshift.com/upgrade-tailwind-css-1-to-tailwind-css-2)
 - [Tailwind 3.x Shift - upgrade Tailwind from 2.x to 3.x](https://laravelshift.com/upgrade-tailwind-css-2-to-tailwind-css-3)
 - [Tailwind UI Shift - upgrade Tailwind UI from 1.x to 2.x](https://laravelshift.com/upgrade-tailwind-ui-1-to-tailwind-ui-2)
-- [Tailwind Converter - convert Bootstrap CSS to Tailwind CSS](https://laravelshift.com/convert-bootstrap-to-tailwind-css)
+
